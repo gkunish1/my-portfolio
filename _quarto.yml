@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Gavin Kunish"
@@ -31,5 +32,5 @@ format:
     css: styles.css
     toc: true
 
-output-dir: docs
+
 
