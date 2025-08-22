@@ -1,0 +1,12 @@
+---
+title: "Exploring Latent Structure with PCA and LCA"
+format: html
+---
+
+## Project Overview
+
+This project applies Principal Component Analysis (PCA) and Latent Class Analysis (LCA) to uncover hidden structure within behavioral or transactional data. PCA is used to reduce dimensionality while retaining interpretability through loadings, and LCA identifies distinct subgroups based on latent variable modeling. The goal is to compare these techniques in identifying meaningful clusters or behavioral profiles that are not directly observable.
+
+- **Tools:** Python (sklearn, numpy, matplotlib), R (poLCA)
+- **Skills:** PCA, LCA, component loading analysis, latent class modeling, dimension reduction
+- **Notebook:** [📓 View on GitHub](https://github.com/gkunish1/Python/blob/main/LCA%20%26%20PCA.ipynb)

@@ -1,0 +1,23 @@
+---
+title: "Welcome"
+format: html
+---
+
+# Gavin Kunish – Data Scientist
+
+Welcome to my portfolio. I’m a data scientist with a background in applied statistics and a passion for transforming messy, complex data into actionable insights.
+
+This site showcases select projects spanning:
+
+- 📈 Time series forecasting (ARIMAX, VAR)
+- 🏘️ Real estate modeling (Brooklyn, Ames housing)
+- 🧠 Clustering & dimensionality reduction (K-means, GMM, PCA, LCA)
+- 🔍 Interpretable modeling (logistic regression, decision trees)
+- 🤖 Agentic tools (in progress)
+
+> Looking for more?  
+- 📂 [Full GitHub Repository List](https://github.com/gkunish1?tab=repositories)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/gavin-kunish)
+- 📧 [Email Me](mailto:gkunish@gmail.com)
+
+Feel free to explore the Projects tab above or get in touch via the About page.

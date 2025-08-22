@@ -1,0 +1,14 @@
+---
+title: "Champion VAR Modeling for CPI Forecasting"
+format: html
+---
+
+## Project Overview
+
+This project focuses on building and refining Vector Autoregressive (VAR) models for forecasting the U.S. Consumer Price Index (CPI) using related economic indicators. It includes a comparison of VAR specifications, evaluation of forecast accuracy, model diagnostics, and presentation of a final "champion model" selected based on information criteria and residual analysis.
+
+- **Tools:** R (vars, tseries, forecast), Quarto, ggplot2
+- **Skills:** VAR lag selection, impulse response analysis, model stability checks, residual diagnostics
+- **Deliverables:**
+  - [📄 Full VAR Modeling Report (PDF)](https://github.com/gkunish1/R-Coding/blob/main/VAR%20Modeling%20CPI%20Dataset.pdf)
+  - [🏆 Champion Model Summary (PDF)](https://github.com/gkunish1/R-Coding/blob/main/Champion-VAR%20Model.pdf)

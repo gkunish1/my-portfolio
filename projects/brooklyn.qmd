@@ -1,0 +1,12 @@
+---
+title: "Brooklyn Housing Price Classification"
+format: html
+---
+
+## Project Overview
+
+This project uses logistic regression to classify Brooklyn home sales into price categories using publicly available property data. Key features include square footage, lot size, building class, and year built. The modeling pipeline involves variable selection, VIF-based filtering, and interpretation of odds ratios to understand the impact of structural characteristics on sale price categories.
+
+- **Tools:** R (glm, car, MASS)
+- **Skills:** Logistic regression, multicollinearity control, real estate modeling, interpretable ML
+- **Code:** [🔗 View on GitHub](https://github.com/gkunish1/R-Coding/blob/main/Logistic%20Regression.R)

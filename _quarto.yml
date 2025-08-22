@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Gavin Kunish"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        menu:
+          - text: Champion VAR Modeling (CPI)
+            href: projects/cpi-var.qmd
+          - text: Supervised & Unsupervised Learning
+            href: projects/supervised-vs-unsupervised.qmd
+          - text: Ames Housing Clustering
+            href: projects/ames-clustering
+          - text: Latent Structure (LCA & PCA)
+            href: projects/lca-pca
+          - text: Brooklyn Housing Forecast
+            href: projects/brooklyn.qmd
+
+      - text: About
+        href: about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - branda
+    css: styles.css
+    toc: true
+
+
+

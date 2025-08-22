@@ -1,0 +1,23 @@
+---
+title: "About Me"
+format: html
+---
+
+## About Me
+
+I’m Gavin Kunish, a data scientist with a background in applied statistics and a Master’s in Applied Data Science. My work spans forecasting, supervised and unsupervised modeling, dimensionality reduction, and AI tooling.
+
+I'm especially drawn to real-world problem solving—projects that connect technical rigor with practical decision-making, whether in pricing, churn, or housing markets.
+
+### Technical Skills
+
+- **Languages:** Python, R, SQL  
+- **Tools:** scikit-learn, caret, forecast, Quarto, Git, Streamlit  
+- **Specialties:** Forecasting, clustering, model evaluation, interpretability, data wrangling
+
+### Connect
+
+- 📂 [Full GitHub Repository List](https://github.com/gkunish1?tab=repositories)
+- 📫 Coming soon: Contact form or email (if you'd like one here)
+
+Thanks for visiting!

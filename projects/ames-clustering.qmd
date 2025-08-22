@@ -1,0 +1,12 @@
+---
+title: "Clustering the Ames Housing Market"
+format: html
+---
+
+## Project Overview
+
+This project uses unsupervised learning techniques to identify clusters of homes in the Ames Housing dataset. K-means and Gaussian Mixture Models (GMM) are applied to engineered numeric features to uncover latent structure in buyer behavior and home characteristics. PCA is used to reduce dimensionality for visualization and assess the distinctiveness of clusters. Insights are drawn about housing submarkets and remodeling patterns.
+
+- **Tools:** Python (scikit-learn, pandas, seaborn, matplotlib)
+- **Skills:** K-means, GMM, PCA, cluster interpretation, unsupervised modeling
+- **Notebook:** [📓 View on GitHub](https://github.com/gkunish1/Python/blob/main/Cluster%20Analysis.ipynb)

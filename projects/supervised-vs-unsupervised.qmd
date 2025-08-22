@@ -1,0 +1,12 @@
+---
+title: "Supervised vs. Unsupervised Learning on Customer Data"
+format: html
+---
+
+## Project Overview
+
+This project compares supervised and unsupervised machine learning approaches using a customer churn dataset. The unsupervised portion uses k-means and Gaussian Mixture Models (GMM) for behavioral clustering, while the supervised side builds tree-based models to predict churn probability. The analysis also includes PCA-based dimensionality reduction and visualization techniques to evaluate separability between churn groups.
+
+- **Tools:** R, cluster, mclust, caret, rpart, ggplot2
+- **Skills:** K-means, GMM, PCA, decision trees, cluster validation, churn modeling
+- **Notebook:** [📓 View on GitHub](https://github.com/gkunish1/R-Coding/blob/main/Supervised%3AUnsupervised%20Learning.ipynb)

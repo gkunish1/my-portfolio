@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m Gavin Kunish, a data scientist with a background in applied statistics and a Master’s in Applied Data Science. My work spans forecasting, supervised and unsupervised modeling, dimensionality reduction, and AI tooling.\nI’m especially drawn to real-world problem solving—projects that connect technical rigor with practical decision-making, whether in pricing, churn, or housing markets.\n\n\n\nLanguages: Python, R, SQL\n\nTools: scikit-learn, caret, forecast, Quarto, Git, Streamlit\n\nSpecialties: Forecasting, clustering, model evaluation, interpretability, data wrangling\n\n\n\n\n\n📂 Full GitHub Repository List\n📫 Coming soon: Contact form or email (if you’d like one here)\n\nThanks for visiting!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Gavin Kunish – Data Scientist\nWelcome to my portfolio. I’m a data scientist with a background in applied statistics and a passion for transforming messy, complex data into actionable insights.\nThis site showcases select projects spanning:\n\n📈 Time series forecasting (ARIMAX, VAR)\n🏘️ Real estate modeling (Brooklyn, Ames housing)\n🧠 Clustering & dimensionality reduction (K-means, GMM, PCA, LCA)\n🔍 Interpretable modeling (logistic regression, decision trees)\n🤖 Agentic tools (in progress)\n\n\nLooking for more?\n- 📂 Full GitHub Repository List - 💼 LinkedIn Profile - 📧 Email Me\n\nFeel free to explore the Projects tab above or get in touch via the About page."
+  },
+  {
+    "objectID": "projects/brooklyn.html",
+    "href": "projects/brooklyn.html",
+    "title": "Brooklyn Housing Price Classification",
+    "section": "",
+    "text": "This project uses logistic regression to classify Brooklyn home sales into price categories using publicly available property data. Key features include square footage, lot size, building class, and year built. The modeling pipeline involves variable selection, VIF-based filtering, and interpretation of odds ratios to understand the impact of structural characteristics on sale price categories.\n\nTools: R (glm, car, MASS)\nSkills: Logistic regression, multicollinearity control, real estate modeling, interpretable ML\nCode: 🔗 View on GitHub"
+  },
+  {
+    "objectID": "projects/brooklyn.html#project-overview",
+    "href": "projects/brooklyn.html#project-overview",
+    "title": "Brooklyn Housing Price Classification",
+    "section": "",
+    "text": "This project uses logistic regression to classify Brooklyn home sales into price categories using publicly available property data. Key features include square footage, lot size, building class, and year built. The modeling pipeline involves variable selection, VIF-based filtering, and interpretation of odds ratios to understand the impact of structural characteristics on sale price categories.\n\nTools: R (glm, car, MASS)\nSkills: Logistic regression, multicollinearity control, real estate modeling, interpretable ML\nCode: 🔗 View on GitHub"
+  },
+  {
+    "objectID": "projects/economics.html",
+    "href": "projects/economics.html",
+    "title": "Forecasting CPI with ARIMAX and VAR Models",
+    "section": "",
+    "text": "This project compares two multivariate time series approaches—ARIMAX and simple VAR—for forecasting the Consumer Price Index (CPI) using explanatory variables like interest rates and regional price indices. The analysis includes seasonality adjustments, model validation using RMSE, and diagnostic checks such as AIC/BIC selection and residual autocorrelation testing.\n\nTools: R (forecast, vars, tseries)\nSkills: ARIMAX modeling, VAR lag selection, seasonality decomposition, forecast evaluation\nDeliverable: 📄 View Slide Deck (PDF)"
+  },
+  {
+    "objectID": "projects/economics.html#project-overview",
+    "href": "projects/economics.html#project-overview",
+    "title": "Forecasting CPI with ARIMAX and VAR Models",
+    "section": "",
+    "text": "This project compares two multivariate time series approaches—ARIMAX and simple VAR—for forecasting the Consumer Price Index (CPI) using explanatory variables like interest rates and regional price indices. The analysis includes seasonality adjustments, model validation using RMSE, and diagnostic checks such as AIC/BIC selection and residual autocorrelation testing.\n\nTools: R (forecast, vars, tseries)\nSkills: ARIMAX modeling, VAR lag selection, seasonality decomposition, forecast evaluation\nDeliverable: 📄 View Slide Deck (PDF)"
+  },
+  {
+    "objectID": "projects/cpi-var.html",
+    "href": "projects/cpi-var.html",
+    "title": "Champion VAR Modeling for CPI Forecasting",
+    "section": "",
+    "text": "This project focuses on building and refining Vector Autoregressive (VAR) models for forecasting the U.S. Consumer Price Index (CPI) using related economic indicators. It includes a comparison of VAR specifications, evaluation of forecast accuracy, model diagnostics, and presentation of a final “champion model” selected based on information criteria and residual analysis.\n\nTools: R (vars, tseries, forecast), Quarto, ggplot2\nSkills: VAR lag selection, impulse response analysis, model stability checks, residual diagnostics\nDeliverables:\n\n📄 Full VAR Modeling Report (PDF)\n🏆 Champion Model Summary (PDF)"
+  },
+  {
+    "objectID": "projects/cpi-var.html#project-overview",
+    "href": "projects/cpi-var.html#project-overview",
+    "title": "Champion VAR Modeling for CPI Forecasting",
+    "section": "",
+    "text": "This project focuses on building and refining Vector Autoregressive (VAR) models for forecasting the U.S. Consumer Price Index (CPI) using related economic indicators. It includes a comparison of VAR specifications, evaluation of forecast accuracy, model diagnostics, and presentation of a final “champion model” selected based on information criteria and residual analysis.\n\nTools: R (vars, tseries, forecast), Quarto, ggplot2\nSkills: VAR lag selection, impulse response analysis, model stability checks, residual diagnostics\nDeliverables:\n\n📄 Full VAR Modeling Report (PDF)\n🏆 Champion Model Summary (PDF)"
+  },
+  {
+    "objectID": "projects/supervised-vs-unsupervised.html",
+    "href": "projects/supervised-vs-unsupervised.html",
+    "title": "Supervised vs. Unsupervised Learning on Customer Data",
+    "section": "",
+    "text": "This project compares supervised and unsupervised machine learning approaches using a customer churn dataset. The unsupervised portion uses k-means and Gaussian Mixture Models (GMM) for behavioral clustering, while the supervised side builds tree-based models to predict churn probability. The analysis also includes PCA-based dimensionality reduction and visualization techniques to evaluate separability between churn groups.\n\nTools: R, cluster, mclust, caret, rpart, ggplot2\nSkills: K-means, GMM, PCA, decision trees, cluster validation, churn modeling\nNotebook: 📓 View on GitHub"
+  },
+  {
+    "objectID": "projects/supervised-vs-unsupervised.html#project-overview",
+    "href": "projects/supervised-vs-unsupervised.html#project-overview",
+    "title": "Supervised vs. Unsupervised Learning on Customer Data",
+    "section": "",
+    "text": "This project compares supervised and unsupervised machine learning approaches using a customer churn dataset. The unsupervised portion uses k-means and Gaussian Mixture Models (GMM) for behavioral clustering, while the supervised side builds tree-based models to predict churn probability. The analysis also includes PCA-based dimensionality reduction and visualization techniques to evaluate separability between churn groups.\n\nTools: R, cluster, mclust, caret, rpart, ggplot2\nSkills: K-means, GMM, PCA, decision trees, cluster validation, churn modeling\nNotebook: 📓 View on GitHub"
+  },
+  {
+    "objectID": "projects/ames-clustering.html",
+    "href": "projects/ames-clustering.html",
+    "title": "Clustering the Ames Housing Market",
+    "section": "",
+    "text": "This project uses unsupervised learning techniques to identify clusters of homes in the Ames Housing dataset. K-means and Gaussian Mixture Models (GMM) are applied to engineered numeric features to uncover latent structure in buyer behavior and home characteristics. PCA is used to reduce dimensionality for visualization and assess the distinctiveness of clusters. Insights are drawn about housing submarkets and remodeling patterns.\n\nTools: Python (scikit-learn, pandas, seaborn, matplotlib)\nSkills: K-means, GMM, PCA, cluster interpretation, unsupervised modeling\nNotebook: 📓 View on GitHub"
+  },
+  {
+    "objectID": "projects/ames-clustering.html#project-overview",
+    "href": "projects/ames-clustering.html#project-overview",
+    "title": "Clustering the Ames Housing Market",
+    "section": "",
+    "text": "This project uses unsupervised learning techniques to identify clusters of homes in the Ames Housing dataset. K-means and Gaussian Mixture Models (GMM) are applied to engineered numeric features to uncover latent structure in buyer behavior and home characteristics. PCA is used to reduce dimensionality for visualization and assess the distinctiveness of clusters. Insights are drawn about housing submarkets and remodeling patterns.\n\nTools: Python (scikit-learn, pandas, seaborn, matplotlib)\nSkills: K-means, GMM, PCA, cluster interpretation, unsupervised modeling\nNotebook: 📓 View on GitHub"
+  },
+  {
+    "objectID": "projects/lca-pca.html",
+    "href": "projects/lca-pca.html",
+    "title": "Exploring Latent Structure with PCA and LCA",
+    "section": "",
+    "text": "This project applies Principal Component Analysis (PCA) and Latent Class Analysis (LCA) to uncover hidden structure within behavioral or transactional data. PCA is used to reduce dimensionality while retaining interpretability through loadings, and LCA identifies distinct subgroups based on latent variable modeling. The goal is to compare these techniques in identifying meaningful clusters or behavioral profiles that are not directly observable.\n\nTools: Python (sklearn, numpy, matplotlib), R (poLCA)\nSkills: PCA, LCA, component loading analysis, latent class modeling, dimension reduction\nNotebook: 📓 View on GitHub"
+  },
+  {
+    "objectID": "projects/lca-pca.html#project-overview",
+    "href": "projects/lca-pca.html#project-overview",
+    "title": "Exploring Latent Structure with PCA and LCA",
+    "section": "",
+    "text": "This project applies Principal Component Analysis (PCA) and Latent Class Analysis (LCA) to uncover hidden structure within behavioral or transactional data. PCA is used to reduce dimensionality while retaining interpretability through loadings, and LCA identifies distinct subgroups based on latent variable modeling. The goal is to compare these techniques in identifying meaningful clusters or behavioral profiles that are not directly observable.\n\nTools: Python (sklearn, numpy, matplotlib), R (poLCA)\nSkills: PCA, LCA, component loading analysis, latent class modeling, dimension reduction\nNotebook: 📓 View on GitHub"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m Gavin Kunish, a data scientist with a background in applied statistics and a Master’s in Applied Data Science. My work spans forecasting, supervised and unsupervised modeling, dimensionality reduction, and AI tooling.\nI’m especially drawn to real-world problem solving—projects that connect technical rigor with practical decision-making, whether in pricing, churn, or housing markets.\n\n\n\nLanguages: Python, R, SQL\n\nTools: scikit-learn, caret, forecast, Quarto, Git, Streamlit\n\nSpecialties: Forecasting, clustering, model evaluation, interpretability, data wrangling\n\n\n\n\n\n📂 Full GitHub Repository List\n📫 Coming soon: Contact form or email (if you’d like one here)\n\nThanks for visiting!"
+  }
+]

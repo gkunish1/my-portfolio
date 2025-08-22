@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "d0ab554f"
+  },
+  "about.qmd": {
+    "about.html": "a582eabc"
+  },
+  "projects/brooklyn.qmd": {
+    "brooklyn.html": "7fe391c0"
+  },
+  "projects/economics.qmd": {
+    "economics.html": "acb8d39b"
+  },
+  "projects/cpi-var.qmd": {
+    "cpi-var.html": "4a1e860a"
+  },
+  "projects/supervised-vs-unsupervised.qmd": {
+    "supervised-vs-unsupervised.html": "89b5d319"
+  },
+  "projects/ames-clustering.qmd": {
+    "ames-clustering.html": "8746a92c"
+  },
+  "projects/lca-pca.qmd": {
+    "lca-pca.html": "f6020a19"
+  }
+}
